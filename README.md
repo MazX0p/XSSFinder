@@ -9,7 +9,7 @@
 - pyfiglet 
 
 TO Download it:
-- ```sh $ pip3 install pyfiglet ``` 
+- ```$ pip3 install pyfiglet ``` 
 
 ### USAGE
 
