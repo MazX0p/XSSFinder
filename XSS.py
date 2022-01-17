@@ -953,13 +953,13 @@ def Scanner(url):
             print("The script will run the test using the payload ->", payloads[2], "\n")
             payload = payloads[2]
         elif type == '4':
-            print("The script will run the test using the payload ->", paylads[3], "\n")
+            print("The script will run the test using the payload ->", payloads[3], "\n")
             payload = payloads[3]
         elif type == '5':
             print("The script will run the test using the payload ->", payloads[4], "\n")
             payload = payloads[4]
         elif type == '6':
-            print("The script will run the test using the payload ->", paylads[5], "\n")
+            print("The script will run the test using the payload ->", payloads[5], "\n")
             payload = payloads[5]
         elif type == '7':
             sys.exit()
